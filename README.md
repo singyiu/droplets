@@ -1,1 +1,4 @@
-# droplets
+# Droplets
+
+Decentralized social platform
+
